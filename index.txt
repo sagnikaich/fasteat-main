@@ -1,0 +1,210 @@
+Fasteat - The Best Restaurants In Your Home
+This is a food html template made by Sagnik 
+
+
+
+#---------- HEADER ----------#
+
+alt = Fasteat home
+
+aria-label = close menu
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+Home
+About Us
+Restaurants
+Contacts
+
+aria-label = cart
+<ion-icon name="bag" aria-hidden="true"></ion-icon>
+
+Order Now
+
+aria-label = open menu
+<ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
+
+
+
+#---------- HERO ----------#
+
+The Best Restaurants In Your Home
+
+Get your order from the best restaurants near you to make yourself feel at home.
+
+Order Now
+
+alt = hero banner
+alt = shape
+
+
+
+#---------- INSTRUCTION ----------#
+
+How It Works
+
+Fill your tummy with delicious food, order Now just by following the steps given below
+
+alt = Select Restaurant
+01
+Select Restaurant
+
+Switch ON your GPS location from the device where you're ordering ,find your desired Restaurant nearby and select it.
+
+alt = Select menu
+02
+Select menu
+
+Choose the food course you like to be Delivered from the menu options of that restaurant.
+
+alt = Wait for delivery
+03
+Wait for delivery
+
+...just wait for the delivery...Oh! It hardly gonna take some minutes and feel the MAGIC.
+
+
+
+#---------- TOP RESTAURANT ----------#
+
+12 Best Restaurants in Your City
+
+Checkout your feed for best restaurants as per your visual Recommendations.
+
+alt = Kennington Lane Cafe
+Kennington Lane Cafe
+
+<ion-icon name="star" aria-hidden="true"></ion-icon>
+<ion-icon name="star" aria-hidden="true"></ion-icon>
+<ion-icon name="star" aria-hidden="true"></ion-icon>
+<ion-icon name="star" aria-hidden="true"></ion-icon>
+<ion-icon name="star-outline" aria-hidden="true"></ion-icon>
+
+american
+steakhouse
+
+Best for chicken and fish steaks,juicy creamy chicken filet burgers topped with iceberg,onion and mayo, one bite will give you peace and cheese.
+
+alt = The Wilmington
+The Wilmington
+
+Surely give foodie night & day dreamz,best vegan as well as non-vegan dish smelly vibes.
+
+alt = Kings Arms
+Kings Arms
+
+healthy
+
+Gives you best healthy breakfasts, coffee smells like heaven,dish starters are tongue twisters.
+
+See All
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- CTA ----------#
+
+alt = cta banner
+
+Food from your favorite restaurants to your table
+
+ Get 50% OFF up to Rs.100. Use coupon WELCOME50 on orders above Rs.159
+
+Order Now
+
+
+
+#---------- STATS ----------#
+
+Service shows good taste.
+
+976
+Satisfied
+Customer
+
+12
+Best
+Restaurants
+
+1K+
+Food
+Delivered
+
+
+
+#---------- TESTIMONIALS ----------#
+
+What customers say about us
+
+"This is the best app i have ever used. The services provided by them is so good and impressive. The delivery agents treat you in the most respected and generous manner."
+
+alt = Thomas Adamson
+<ion-icon name="star" aria-hidden="true"></ion-icon>
+<ion-icon name="star" aria-hidden="true"></ion-icon>
+<ion-icon name="star" aria-hidden="true"></ion-icon>
+<ion-icon name="star" aria-hidden="true"></ion-icon>
+<ion-icon name="star" aria-hidden="true"></ion-icon>
+
+alt = testimonial banner
+
+
+
+#---------- PARTNERSHIP ----------#
+
+Want to Join Partnership?
+
+alt = Join Courier
+Join Courier
+
+Learn More
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+Join Merchant
+
+
+
+#---------- NEWSLETTER ----------#
+
+alt = Illustration
+
+Get the menu of your favorite restaurants every day
+
+placeholder = Enter email address
+
+<ion-icon name="notifications-outline" aria-hidden="true"></ion-icon>
+Subscribe
+
+
+
+#---------- FOOTER ----------#
+
+alt = fasteat home
+
+The Best Restaurants in Your Home
+
+Vitae congue mauris rhoncus aenean. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Tempus egestas sed sed risus pretium quam.
+
+Menu
+
+Home
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+About Us
+Restaurants
+Contacts
+
+Contacts
+
+<ion-icon name="location" aria-hidden="true"></ion-icon>
+Nabapally Circular Road, Barasat, Kolkata-700126 , INDIA
+
+<ion-icon name="mail" aria-hidden="true"></ion-icon>
+royal.sagnik@gmail.com
+
+<ion-icon name="call" aria-hidden="true"></ion-icon>
++91 6290583983
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+
+Copyright 2023 Sagnik Aich. All rights reserved.
